@@ -28,7 +28,10 @@ body {
   justify-content: space-between;
   align-items: center;
 }
-
+.logo {
+  font-size: 36px;
+  color: orange;
+}
 .header-info p {
   margin: 0;
 }
